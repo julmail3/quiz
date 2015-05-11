@@ -1,0 +1,1 @@
+<?php echo $this->form->create('User');?><fieldset><legend>Add New User</legend><?phpecho $this->form->input('name');echo $this->form->input('email');echo $this->form->input('password');?></fieldset><?php echo $this->form->end('Add User');?>

@@ -1,0 +1,33 @@
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   app/Config/email.php
+	new file:   app/Config/routes.php
+	new file:   app/Controller/UsersController.php
+	new file:   app/Model/User.php
+	new file:   app/View/users/add.ctp
+	new file:   app/View/users/edit.ctp
+	new file:   app/View/users/index.ctp
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	app/Controller/AppController.php
+	app/Controller/Component/
+	app/Controller/PagesController.php
+	app/Model/AppModel.php
+	app/Model/Behavior/
+	app/Model/Datasource/
+	app/Test/
+	app/View/Elements/
+	app/View/Emails/
+	app/View/Errors/
+	app/View/Helper/
+	app/View/Layouts/
+	app/View/Pages/
+	app/View/Scaffolds/
+	app/webroot/
+	ignorar.txt
+	saida.txt
+

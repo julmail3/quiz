@@ -1,0 +1,17 @@
+.
+..
+.htaccess
+Config
+Console
+Controller
+Lib
+Locale
+Model
+Plugin
+Test
+Vendor
+View
+diretorios.txt
+index.php
+tmp
+webroot
